@@ -17,9 +17,6 @@ A simple weather app that allows users to get current weather information for a 
 
 ## Demo
 
-Provide a link to a live demo or a screenshot/gif showcasing your weather app.
-
-
 [Live Demo](link-to-live-demo)
 
 ## Installation
